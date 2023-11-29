@@ -1,2 +1,3 @@
 # tampilannya
 
+![](code.png)
