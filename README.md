@@ -1,3 +1,2 @@
 # tampilannya
 
-![](vid.mp4)
